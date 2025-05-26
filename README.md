@@ -93,5 +93,4 @@ Pull requests are welcome! Feel free to open issues for feature requests or bugs
 
 **Alan Biju**
 [GitHub](https://github.com/Alanbiju255) • [LinkedIn](www.linkedin.com/in/alan-biju-34b0aa296)
-
-``` 
+ 

@@ -32,8 +32,8 @@ pip install opencv-python pyzbar
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/qr-attendance-system.git
-cd qr-attendance-system
+git clone https://github.com/Alanbiju255/QR-Code-Attendance-System.git
+cd QR-Code-Attendance-System
 ```
 
 2. Run the script:
@@ -92,6 +92,6 @@ Pull requests are welcome! Feel free to open issues for feature requests or bugs
 ## 👨‍💻 Author
 
 **Alan Biju**
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub]() • [LinkedIn]()
 
 ``` 

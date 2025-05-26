@@ -39,7 +39,7 @@ cd QR-Code-Attendance-System
 2. Run the script:
 
 ```bash
-python attendance_qr.py
+python aip.py
 ```
 
 3. Hold up your QR code in front of the camera.
@@ -92,6 +92,6 @@ Pull requests are welcome! Feel free to open issues for feature requests or bugs
 ## 👨‍💻 Author
 
 **Alan Biju**
-[GitHub]() • [LinkedIn]()
+[GitHub](https://github.com/Alanbiju255) • [LinkedIn](www.linkedin.com/in/alan-biju-34b0aa296)
 
 ``` 
